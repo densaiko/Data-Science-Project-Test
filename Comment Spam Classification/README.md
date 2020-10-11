@@ -9,7 +9,7 @@ In this task, I will explore my understanding in Natural Language Processing (NL
 ## Step by step 
 You may find this step by step and its explanation in the notebook
 - [Step 1 - Data Preparation](#Step-1---Data-Preparation)
-- [Step 2 - Exploratory Data Analysis](#Step-2---Exploratory Data Analysis)
+- [Step 2 - Exploratory Data Analysis](#Step-2---Exploratory-Data-Analysis)
 - [Step 3 - Text Cleaning & Data Pre-processing](#Step-3---Text-Cleaning-&-Data-Pre-processing)
 - [Step 4 - Modelling & Evaluation](#Step-4---Modelling-&-Evaluation)
 - [Step 5 - Prediction](#Step-5---Prediction)
