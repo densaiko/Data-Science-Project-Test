@@ -1,6 +1,18 @@
-# Data Science Project Test
-This repository contains test of data science project that is given by company to test our understanding of certain problem. I collect this task in order to keep my journey and share my understanding on the project, and I hope there is a take and give between me and you.
+# Comment Spam Classification
+This notebook is one of the data science project test from Bagidata company. There are two task that the company gives to me.
+1. Comment Spam Classification
+2. News Title Classification
 
-## Here is the sort of data science project test:
-1. [Comment Spam Classification](https://github.com/densaiko/Data_Science_Project_Test/tree/main/Comment%20Spam%20Classification)
-2. [News Title Classification]
+## Problem Understanding
+In this task, I will explore my understanding in Natural Language Processing (NLP) and I have to predict whether the comment is spam (1) or not spam (0). This type of problem is kind of classification problem. Therefore, I will use several models to predict this comment.
+
+## Step by step 
+You may find this step by step and its explanation in the notebook
+- Step 1 - Data Preparation
+- Step 2 - Exploratory Data Analysis
+- Step 3 - Text Cleaning & Data Pre-processing
+- Step 4 - Modelling & Evaluation
+- Step 5 - Prediction
+- Step 6 - Summary
+
+
