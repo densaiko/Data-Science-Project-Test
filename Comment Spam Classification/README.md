@@ -25,3 +25,22 @@ There are so many words in a dataset and to retrieve a simple insight we can use
 ```
 From the data, the result shows that **Video** and **Song** are dominated in the comment
 <img src="image/wordcloud.png" width="450" >
+
+### Step 3 - Text Cleaning & Data Pre-processing
+This step is very important in NLP cases in order to use the text to predict in the future. There are several consideration to clean the data such as:
+- Deleting any punctuation
+- The words should in a dictionary
+- Using stopwords to delete any abbreviation
+Once the text cleaning finished, you may to do vectorization whether you usue **Bag of Words** or **TF-IFD**. I explain so brief about BoW and TF-IFD inside the notebook
+
+### Step 4 - Modelling & Evaluation
+I use module from *Scikit Learn* and implement several models such as SVC, Random Forest, Decision Tree, Gradient Boosting and Naive Bayes. I also implement several hyperparameter tuning to tune the model to get the best result. 
+
+### Step 5 - Prediction
+I found that Gradient Boosting and Naive Bayes give the best performance and use Gradient boosting instead of Naive Bayes because based on the evaluation Gradient Boosting is the best fit for all models that I implement.
+
+### Step 6 - Summary
+Since the accuracy of the model is not so high around 85%, the another optimization such as 
+- Changing the vectorization from **Bag of Words** into **TF-IFD**. Because there is an issue in BoW that TF-IFD can counter the issue
+- Since the data is not too high, perhaps another models can be used such as KNN and Logistic Regression
+- If you have another comment or solution for this task, I will be happy to hear from you.
