@@ -20,6 +20,6 @@ In this step, I usually read the first five rows in order to see what is the ins
 
 ### Step 2 - Exploratory Data Analysis
 There are so many words in a dataset and to retrieve a simple insight we can use WordCloud. 
-'''
+```
 !pip install wordcloud
-'''
+```
