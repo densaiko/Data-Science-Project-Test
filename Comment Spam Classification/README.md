@@ -24,4 +24,4 @@ There are so many words in a dataset and to retrieve a simple insight we can use
 !pip install wordcloud
 ```
 From the data, the result shows that **Video** and **Song** are dominated in the comment
-<img src="images/map_transaction.png" width="450" >
+<img src="image/wordcloud.png" width="450" >
