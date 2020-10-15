@@ -3,4 +3,4 @@ This repository contains test of data science project that is given by company t
 
 ## Here is the sort of data science project test:
 1. [Comment Spam Classification](https://github.com/densaiko/Data_Science_Project_Test/tree/main/Comment%20Spam%20Classification)
-2. [News Title Classification]
+2. [News Title Classification](https://github.com/densaiko/Data_Science_Project_Test/tree/main/News%20Title%20Classification)
